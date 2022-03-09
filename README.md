@@ -1,4 +1,4 @@
-# petshopee
+# Petshopee Web App
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/855qia35PiI
 " target="_blank"><img src="http://img.youtube.com/vi/855qia35PiI/0.jpg" 
 alt="Petshopee Demo" width="240" height="180" border="10" /></a>
